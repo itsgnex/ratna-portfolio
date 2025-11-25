@@ -970,3 +970,7 @@
     }
   }
   
+  body.theme-dark .section--alt {
+    background: transparent;
+  }
+  
